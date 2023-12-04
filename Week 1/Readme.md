@@ -16,6 +16,7 @@
 11. [Callback hell and Promises](#)
 
 ### Why languages?
+- types of language
 ### Interpreted vs compiled languages
 ### Why JS >> Other languages in some use-cases
 ### Strict vs dynamic languages
